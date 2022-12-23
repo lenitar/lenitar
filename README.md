@@ -9,14 +9,14 @@
 
 <h3><p>🌳 Aqui estão alguns badges das linguagens de dados que estou aprendendo: 🌳</p></h3>
 	<div>
-	<ul>
-		<li><img src="https://img.shields.io/badge/Python-25%25-blue.svg" alt="Python"></li>
-		<li><img src="https://img.shields.io/badge/R-17%25-green.svg" alt="R"></li>
-		<li><img src="https://img.shields.io/badge/SQL-15%25-orange.svg" alt="SQL"></li>
-		</ul>
+		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+		<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+		<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
+		<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 	</div>
 	<br>
 <p>Espero poder compartilhar meus projetos e conhecimentos aqui no Github! 🚀</p>
 
 <p>Sinta-se à vontade para deixar sugestões ou perguntas nos comentários! 🌻</p>
+
 
